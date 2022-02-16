@@ -14,67 +14,67 @@ client_scripts {
 files {
 	'stream/defaultshells/shellprops.ytyp',
 	'stream/startingapt/shellpropsv11.ytyp',
-	-- 'stream/ClassicHouseShells/shellpropsv19.ytyp',
-	-- 'stream/DeluxeHousingShells/shellpropsv2.ytyp',
-	-- 'stream/FurnishedHousingShells/shellpropsv11.ytyp',
-	-- 'stream/FurnishedMotelsShells/shellpropsv18.ytyp',
-	-- 'stream/FurnishedStashhousesShells/shellpropsv15.ytyp',
-	-- 'stream/GarageShells/shellpropsv8.ytyp',
-	-- 'stream/HighendHousingShells/shellpropsv9.ytyp',
-	-- 'stream/HighendLabShells/kshellsdrug.ytyp',
-	-- 'stream/LabShells/shellpropsv7.ytyp',
-	-- 'stream/MediumHousingShells/shellpropsv10.ytyp',
-	-- 'stream/ModernHotelsShells/shellpropsv14.ytyp',
-	-- 'stream/ModernHousingShells/shellpropsv12.ytyp',
-	-- 'stream/OfficeShells/shellpropsv3.ytyp',
-	-- 'stream/StashhousesShells/shellpropsv16.ytyp',
-	-- 'stream/StoreShells/shellpropsv4.ytyp',
-	-- 'stream/WarehouseShells/shellpropsv5.ytyp'
-	-- 'stream/AllShellsBundle/allshellsbundle.ytyp'
-	-- 'stream/AllFurnishedShellsBundle/allfurnishedshellsbundle.ytyp'
-	-- 'stream/AllEmptyShellsBundle/allemptyshellsbundle.ytyp'
+	 'stream/old/shellpropsv19.ytyp',
+	 'stream/old/shellpropsv2.ytyp',
+	 'stream/old/shellpropsv11.ytyp',
+	 'stream/old/shellpropsv18.ytyp',
+	 'stream/old/shellpropsv15.ytyp',
+	 'stream/old/shellpropsv8.ytyp',
+	 'stream/old/shellpropsv9.ytyp',
+	 'stream/old/kshellsdrug.ytyp',
+	 'stream/old/shellpropsv7.ytyp',
+	 'stream/old/shellpropsv10.ytyp',
+	 'stream/old/shellpropsv14.ytyp',
+	 'stream/old/shellpropsv12.ytyp',
+	 'stream/old/shellpropsv3.ytyp',
+	 'stream/old/shellpropsv16.ytyp',
+	 'stream/old/shellpropsv4.ytyp',
+	 'stream/old/shellpropsv5.ytyp'
+	 'stream/AllShellsBundle/allshellsbundle.ytyp'
+	 'stream/AllFurnishedShellsBundle/allfurnishedshellsbundle.ytyp'
+	 'stream/AllEmptyShellsBundle/allemptyshellsbundle.ytyp'
 }
 
 -- Default (included)
 data_file 'DLC_ITYP_REQUEST' 'stream/defaultshells/shellprops.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/startingapt/shellpropsv11.ytyp'
 -- Classic
--- data_file 'DLC_ITYP_REQUEST' 'stream/ClassicHouseShells/shellpropsv19.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv19.ytyp'
 -- -- Deluxe
--- data_file 'DLC_ITYP_REQUEST' 'stream/DeluxeHousingShells/shellpropsv2.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv2.ytyp'
 -- -- Furnished Housing
--- data_file 'DLC_ITYP_REQUEST' 'stream/FurnishedHousingShells/shellpropsv11.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv11.ytyp'
 -- -- Furnished Motels
--- data_file 'DLC_ITYP_REQUEST' 'stream/FurnishedMotelsShells/shellpropsv18.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv18.ytyp'
 -- -- Furnished Stash
--- data_file 'DLC_ITYP_REQUEST' 'stream/FurnishedStashhousesShells/shellpropsv15.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv15.ytyp'
 -- -- Garage
--- data_file 'DLC_ITYP_REQUEST' 'stream/GarageShells/shellpropsv8.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv8.ytyp'
 -- -- High End
--- data_file 'DLC_ITYP_REQUEST' 'stream/HighendHousingShells/shellpropsv9.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv9.ytyp'
 -- -- High End Labs
--- data_file 'DLC_ITYP_REQUEST' 'stream/HighendLabShells/kshellsdrug.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/kshellsdrug.ytyp'
 -- -- Labs
--- data_file 'DLC_ITYP_REQUEST' 'stream/LabShells/shellpropsv7.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv7.ytyp'
 -- -- Medium Housing
--- data_file 'DLC_ITYP_REQUEST' 'stream/MediumHousingShells/shellpropsv10.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv10.ytyp'
 -- -- Modern Hotels
--- data_file 'DLC_ITYP_REQUEST' 'stream/ModernHotelsShells/shellpropsv14.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv14.ytyp'
 -- -- Modern Housing
--- data_file 'DLC_ITYP_REQUEST' 'stream/ModernHousingShells/shellpropsv12.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv12.ytyp'
 -- -- Office
--- data_file 'DLC_ITYP_REQUEST' 'stream/OfficeShells/shellpropsv3.ytyp'
--- -- Stash
--- data_file 'DLC_ITYP_REQUEST' 'stream/StashhousesShells/shellpropsv16.ytyp'
--- -- Store
--- data_file 'DLC_ITYP_REQUEST' 'stream/StoreShells/shellpropsv4.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv3.ytyp'
+ -- Stash
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv16.ytyp'
+ -- Store
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv4.ytyp'
 -- -- Warehouse
--- data_file 'DLC_ITYP_REQUEST' 'stream/WarehouseShells/shellpropsv5.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/old/shellpropsv5.ytyp'
 -- -- All Shells Bundle
--- data_file 'DLC_ITYP_REQUEST' 'stream/AllShellsBundle/allshellsbundle.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/AllShellsBundle/allshellsbundle.ytyp'
 -- -- All Furnished Bundle
--- data_file 'DLC_ITYP_REQUEST' 'stream/AllFurnishedShellsBundle/allfurnishedshellsbundle.ytyp'
--- -- All Empty Bundle
--- data_file 'DLC_ITYP_REQUEST' 'stream/AllEmptyShellsBundle/allemptyshellsbundle.ytyp'
+ data_file 'DLC_ITYP_REQUEST' 'stream/AllFurnishedShellsBundle/allfurnishedshellsbundle.ytyp'
+ -- All Empty Bundle
+ data_file 'DLC_ITYP_REQUEST' 'stream/AllEmptyShellsBundle/allemptyshellsbundle.ytyp'
 
 lua54 'yes'
